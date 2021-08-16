@@ -1,5 +1,5 @@
 ---
 applications:
- - name: movies-reviews-database-39e
+ - name: movies-reviews-database-cac
    random-route: true
    memory: 128M
